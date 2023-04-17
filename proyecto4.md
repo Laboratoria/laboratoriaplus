@@ -114,11 +114,11 @@ NEXT
 
 ¡Felicidades! Has completado tu proyecto 4: Compartiendo mi historia. Te invitamos a traer a la próxima sesión en vivo tus reflexiones y descubrimientos para construir en comunidad.
 Sabemos que este tema es de vital importancia y nos encantará que continues tu exploración con los siguientes recursos sugeridos:
-Marshall Ganz: Por Qué Importan Las Historias: Marshall Ganz es profesor de la Harvard Kennedy School of Government, además de conferenciante, autor, orador y organizador de la campaña política de Barack Obama en Estados Unidos en 2008. El artículo destaca la importancia de contar historias para impulsar el cambio social. El autor sostiene que las historias tienen el poder de implicar emocionalmente a las personas y motivarlas para actuar. También se dan consejos prácticos sobre cómo elaborar historias convincentes que resuenen en la gente e impulsen el cambio social. 
+Marshall Ganz: Por Qué Importan Las Historias: Marshall Ganz es profesor de la Harvard Kennedy School of Government, además de conferenciante, autor, orador y organizador de la campaña política de Barack Obama en Estados Unidos en 2008. El artículo destaca la importancia de contar historias para impulsar el cambio social. El autor sostiene que las historias tienen el poder de implicar emocionalmente a las personas y motivarlas para actuar. También se dan consejos prácticos sobre cómo elaborar historias convincentes que resuenen en la gente e impulsen el cambio social. https://leadingchangenetwork.org/resource_center/why-stories-matter-the-art-and-craft-of-social-change/
 
 
 Chimamanda Ngozi Adichie: El Peligro De Una Historia única: No hay "una" historia correcta. Cada historia es diferente, y cada uno de nosotros aporta experiencias únicas que ayudan a los demás a comprendernos mejor. En esta charla TED, la escritora y conferenciante Chimanda Ngozi Adichie destaca el impacto negativo de los estereotipos y la importancia de contar historias diversas. Adichie comparte su propia experiencia de haber crecido en Nigeria y haber estado expuesta únicamente a la literatura occidental, lo que le llevó a tener una visión estrecha del mundo. Adichie reta al público a buscar y escuchar una diversidad de historias para ampliar su comprensión del mundo y de otras personas, haciendo hincapié en el poder de la narración en la formación de nuestra visión del mundo.
-
+https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story/transcript?language=es
 
 Recuerda que también nos encontrarás en slack conversando y analizando estos materiales.
 

@@ -70,54 +70,49 @@ OPEN QUESTION
 
 CONTENT
 # La narrativa pública como práctica de liderazgo
-El liderazgo también consiste en aceptar la responsabilidad de capacitar a las demás personas para que alcancen un **objetivo común en medio de la incertidumbre**.  La narrativa es una herramienta que tenemos para acceder a los recursos morales -el coraje- para tomar las decisiones que conforman nuestras identidades, como individuos, como comunidades, como naciones.  
+El liderazgo también consiste en aceptar la responsabilidad de capacitar a las demás personas para que alcancen un **objetivo común en medio de la incertidumbre**.  La narrativa es una herramienta que tenemos para acceder a los recursos morales -el coraje- para tomar las decisiones que conforman nuestras identidades, como personas, como comunidades, como naciones.  
 
-NEXT
+Una narración pública completa consta de tres tipos de relatos: **Una Historia de Ti Misma, una Historia de Nosotros y una Historia del Ahora.** Cada historia tiene una persona diferente. El propósito de _una Historia de Ti Misma_ es conectar a tus oyentes contigo y con tu porqué, y ayudarles a entender mejor tanto a ti como tu estilo de liderazgo. El propósito de _una Historia de Nosotras_ es conectar con la comunidad a la que sirves, y el propósito de _la Historia de Ahora_ es pedir a los demás que se unan a tu movimiento, idea o causa. 
 
-Historia de Ti Misma
-Una narración pública completa consta de tres tipos de relatos: Una Historia de Ti Misma, una Historia de Nosotros y una Historia del Ahora. Cada historia tiene una persona diferente. El propósito de una Historia de Ti Misma es conectar a tus oyentes contigo y con tu porqué, y ayudarles a entender mejor a ti y a tu liderazgo. El propósito de una Historia de Nosotros es conectar con la comunidad a la que sirves, y el propósito de la Historia de Ahora es pedir a los demás que se unan a tu movimiento, idea o causa. 
+Aunque hablamos de tres tipos de historias: “Historia de Mi Misma”, “Historia de Nosotras”, e Historia del Ahora. En esta sesión sólo nos centraremos en la Historia de Mi Misma: Mi Historia. Esta es tu historia de liderazgo, tu "POR QUÉ", la razón por la que estás desarrollando tu influencia, y la razón por la que estás convencida para ser la líder que sabes que eres. 
 
+># Actividad
+>
+>En su discurso _Fire un: Ready to go_ el expresidente Barack Obama hace uso de los tres tipos de historias para conectactar con su audiencia, influir de forma positiva e invitarlos a la acción. Observa su discurso y después acompáñanos a respoder las preguntas de reflexión.
+> https://youtu.be/_MjccRjErQw
 
-
-Aunque hablamos de tres tipos de historias: “Historia de Mi Misma”, “Historia de Nosotros”, e Historia del Ahora. En esta sesión sólo nos centraremos en la Historia de Mi Misma – Mi Historia. Esta es tu historia de liderazgo, tu "POR QUÉ", la razón por la que estás desarrollando tu influencia, y la razón por la que estás convencida para ser la líder que sabes que eres. 
-
-
-NEXT
-
-
-Para la próxima sesión, nos tomaremos un tiempo como grupo para desarrollar nuestra Historia del Yo. Nuestro objetivo entonces es desarrollar las habilidades necesarias para comunicar nuestras historias de forma efectiva, diseñando la historia de nosotras mismas.
-
-Antes, nos gustaría invitarte a reflexionar más sobre las experiencias vitales y de liderazgo que te han moldeado. La siguiente sección contiene una serie de preguntas sobre las que te pedimos que reflexiones. Por favor, consulta tu Río de la Vida de la Sesión 1 - esto también puede ayudar a guiar tu proceso. 
+OPEN QUESTION
+¿Cuál es la historia de ahora que comparte el presidente?¿Cuál es su llamado a la acción?
+¿Cómo se relaciona la historia de ahora con la historia de nosotros? ¿Por qué nos emociona?
 
 
+CONTENT
 
-¿Qué recuerdos tienes de cuando eras niño que estén relacionados con las personas, los lugares y los acontecimientos que valoras?
-En plataforma tenemos que tener espacio para esta respuesta en formato párrafo
+#REFLEXIÓN
 
-¿Qué momentos importantes surgieron en tu Río de la Vida? 
-	En plataforma tenemos que tener espacio para esta respuesta en formato párrafo
+En nuestra próxima sesión en vivo, nos tomaremos un tiempo como grupo para desarrollar nuestra _Historia sobre mí_. Para sacarle el mejor provecho a la sesión, nos gustaría invitarte a reflexionar más sobre las experiencias vitales y de liderazgo que te han moldeado. La siguiente sección contiene una serie de preguntas sobre las que te pedimos que reflexiones. Por favor, consulta tu Río de la Vida de la Sesión 1 - esto también puede facilitar esta reflexión.
+
+
+OPEN QUESTION
+¿Qué recuerdos tienes de cuando eras niña que estén relacionados con las personas, los lugares y los acontecimientos que valoras?
+
+¿Qué momentos importantes surgieron en tu Río de la Vida relacionados con el desarrollo de tu liderazgo? 
 
 ¿Quiénes son las personas importantes de tu vida que te han inspirado? 
-	En plataforma tenemos que tener espacio para esta respuesta en formato párrafo
 
-Enumera todos los trabajos o proyectos en los que hayas participado. Sea
-expansivo; incluye cosas como acampar en la naturaleza, servir en un grupo juvenil
-ir a un mitin político, organizar un club cultural, experimentar un momento de trascendencia.
-	En plataforma tenemos que tener espacio para esta respuesta en formato párrafo
+Enumera todos los trabajos o proyectos en los que hayas participado; incluye cosas como acampar en la naturaleza, servir en un grupo juvenil,
+asisitir a un mitin político, organizar un club cultural, experimentar un momento de trascendencia.
 
-Enumera las clases que has tomado, los proyectos que has dirigido y el trabajo que has realizado que conecta con tus valores.
-	En plataforma tenemos que tener espacio para esta respuesta en formato párrafo
+Enumera los proyectos que has dirigido, el trabajo que has realizado y las capacitaciones que has cursado que conectan con tus valores.
 
 Nombra los últimos cinco libros o artículos que hayas leído (por elección) o películas u obras de teatro que hayas visto.
-	En plataforma tenemos que tener espacio para esta respuesta en formato párrafo
 
-¿Qué conexión o tema puedes ver en todas las selecciones? ¿Qué te ha gustado de estos artículos? ¿Qué dicen tus lecturas sobre ti?
-	En plataforma tenemos que tener espacio para esta respuesta en formato párrafo
+¿Qué conexión puedes distinguir a través de las selecciones? ¿Qué te ha gustado de estos artículos? ¿Qué dicen tus lecturas sobre ti?
 
 
 NEXT
 
-¡Felicidades! Has completado tu proyecto 4: Compartiendo mi historia. Te invitamos a traer a la próxima sesión en vivo tus reflexiones y descubrimientos para compartir en comunidad.
+¡Felicidades! Has completado tu proyecto 4: Compartiendo mi historia. Te invitamos a traer a la próxima sesión en vivo tus reflexiones y descubrimientos para construir en comunidad.
 Sabemos que este tema es de vital importancia y nos encantará que continues tu exploración con los siguientes recursos sugeridos:
 Marshall Ganz: Por Qué Importan Las Historias: Marshall Ganz es profesor de la Harvard Kennedy School of Government, además de conferenciante, autor, orador y organizador de la campaña política de Barack Obama en Estados Unidos en 2008. El artículo destaca la importancia de contar historias para impulsar el cambio social. El autor sostiene que las historias tienen el poder de implicar emocionalmente a las personas y motivarlas para actuar. También se dan consejos prácticos sobre cómo elaborar historias convincentes que resuenen en la gente e impulsen el cambio social. 
 

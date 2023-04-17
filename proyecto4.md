@@ -6,7 +6,7 @@ En este proyecto, reflexionaremos sobre nuestras experiencias de liderazgo pasad
 NEXT
 
 CONTENT 
-# Tomando control de mi narrativa
+# El poder de las historias
 Nuestra percepción como líderes y aún más, la percepción que los otros tendrán sobre nuestro liderazgo se alimenta en gran medida de nuestra narrativa pública. Reconocer su presencia y tomar control de la misma nos permitirá conectar con quien sea y ejercer verdaderamente una influencia positiva.
 
 Según un estudio de Jennifer Aaker, profesora de marketing de la Universidad de Stanford, las historias son hasta 22 veces más memorables que los hechos por sí solos. En su charla, el poder de las historias, (https://www.youtube.com/watch?v=CdO9a41WUss) Aaker nos muestra cómo utilizar las historias para ser más persuasivas y mover a las personas a la acción.
@@ -15,34 +15,42 @@ Por su parte, una encuesta de Greenberg Quinlan Rosner Research descubrió que e
 
 Un estudio de Uri Hasson, neurocientífico de la Universidad de Princeton, descubrió que cuando un orador cuenta una historia, el cerebro de los oyentes se sincroniza con el del orador, creando una experiencia compartida y haciendo que los oyentes sean más receptivos al mensaje.
 
-NEXT
+¿Convencida? Aprendamos a aprovechar el poder de las historias
+
+CONTENT
 
 ¿Por qué importan las historias?
-Contar historias puede ser una poderosa herramienta de persuasión porque atrae emocionalmente a las personas y les ayuda a conectar con el mensaje que se transmite. Las historias crean empatía con los oyentes y demuestran el valor intrínseco que representamos. Las historias pueden ayudar a la gente a conectar con el mensaje a nivel personal, creando empatía y resonancia emocional. Esta conexión emocional puede ayudar al público a ver el punto de vista del orador y ser más receptivo a su mensaje. Las historias también pueden servir para demostrar el valor de uno mismo o de un producto o servicio. Al contar una historia sobre cómo el producto o servicio ha ayudado a alguien, el orador puede mostrar a la audiencia los beneficios de lo que está promocionando. Hoy nos centramos menos en la historia de un producto o servicio y más en cómo NOSOTROS nos promocionamos e influenciamos. 
+Contar historias puede ser una poderosa herramienta de persuasión porque atrae emocionalmente a las personas y les ayuda a conectar con el mensaje que se transmite. Las historias crean empatía con los oyentes y demuestran el valor intrínseco que representamos. Las historias pueden ayudar a la gente a conectar con el mensaje a nivel personal, creando empatía y resonancia emocional. Esta conexión emocional puede ayudar al público a ver el punto de vista del orador y ser más receptivo a su mensaje. Al contar una historia sobre cómo un producto o servicio ha ayudado a alguien, la oradora puede mostrar a la audiencia los beneficios de lo que está promocionando. Hoy nos centramos menos en la historia de un producto o servicio y más en cómo NOSOTRAS nos promocionamos para conectar con otras personas e influenciamos positivamente a nuestro entorno. 
 
 En este proyecto, reflexionaremos sobre nuestras experiencias de liderazgo pasadas para diseñar una historia que podamos adaptar a cualquier audiencia (una narrativa pública.) Esta narrativa pública conectará cómo nos vemos a nosotras mismas con cómo nos ven los demás públicamente. 
 
-Ésta es tu historia de liderazgo, tu "POR QUÉ", la razón por la que estás desarrollando tu influencia, y la razón por la que estás convencida para ser la líder que sabes que eres. 
+Ésta es tu historia de liderazgo, tu "POR QUÉ", la razón por la que estás desarrollando tu influencia, y la razón por la que estás convencida de convertirte en la líder que sabes que eres. 
+
+OPEN QUESTION
+¿Cuál ha sido tu experiencia previa contando historias?
+
+¿Cuál fue la última historia que escuchaste con la que te sentiste conectada?¿De qué se trataba?¿Por qué la recuerdas?
 
 NEXT
 
-Proyecto 4 Actividad 1
+# ¿Cómo me presento
 
-Antes de aprender sobre las narrativas públicas y cómo crear una, vamos a empezar reflexionando sobre cómo nos presentamos actualmente cuando ocupamos puestos de liderazgo. A continuación te proponemos dos escenas para que imagines y compartas cómo responderías en cada una.
+Antes de aprender sobre las narrativas públicas y cómo crear una, vamos a empezar reflexionando sobre cómo nos presentamos actualmente cuando ocupamos puestos de liderazgo. ¿Utiizas una serie de logros y marcas distintivas para presentarte? ¿Recuerdas mencionar tus fortalezas y aquello con lo que necesitas ayuda?¿Minimizas tu influencia y presencia? Presentarse definitivamente es una actividad menos trivial de lo que pudiese parecer y con frecuencia reaccionamos de forma distinta en nuestra presentación en relación al nivel de influencia que percibimos en nuestra contraparte. Sin embargo, presentarnos de forma memorable es pieza clave para comenzar a desarrollar nuestra influencia.
+
+>## Actividad
+>
+>A continuación te proponemos dos escenas para que imagines y compartas cómo responderías en cada una.
+
+OPEN QUESTION
+En 1 párrafo, ¿Cómo te presentas con una nueva colaboradora de la cuál eres responsable?
+
+OPEN QUESTION
+En 1 párrafo, ¿Cómo te presentas como ponente de un congreso internacional como la líder que sabes que eres?
 
 
-En 2 párrafos, ¿Cómo te presentas con una nueva colaboradora de la cuál eres responsable?
-En plataforma tenemos que tener espacio para esta respuesta en formato párrafo
+CONTENT
 
-
-En 2 párrafos, ¿Cómo te presentas como ponente de un congreso internacional como la líder que sabes que eres?
-En plataforma tenemos que tener espacio para esta respuesta en formato párrafo
-
-
-NEXT
-
-Proyecto 4 Actividad 2
-Una historia sobre mí
+# Una historia sobre mí
 
 
 En las sesiones anteriores, hablamos de los tres ejes del liderazgo: cómo nos vemos a nosotros mismos (autopercepción), cómo nos ven los demás y cómo somos realmente como líderes (comportamientos.) 

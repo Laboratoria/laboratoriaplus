@@ -1,5 +1,5 @@
 COVER
-Proyecto 4: Compartiendo mi historia
+# Proyecto 4: Compartiendo mi historia
 ¿Por qué hablamos de storytelling en un curso de liderazgo? Nuestra percepción como líderes y aún más, la percepción que los otros tendrán sobre nuestro liderazgo, parte en gran medida de cómo nos presentamos. 
 En este proyecto, reflexionaremos sobre nuestras experiencias de liderazgo pasadas para diseñar una historia que podamos adaptar a cualquier audiencia. Esta narrativa pública conectará cómo nos vemos a nosotras mismas con cómo nos ven los demás públicamente. 
 
@@ -53,16 +53,23 @@ CONTENT
 # Una historia sobre mí
 
 
-En las sesiones anteriores, hablamos de los tres ejes del liderazgo: cómo nos vemos a nosotros mismos (autopercepción), cómo nos ven los demás y cómo somos realmente como líderes (comportamientos.) 
+En las sesiones anteriores, hablamos de los tres ejes del liderazgo: cómo nos vemos a nosotras mismas (autopercepción), cómo nos ven los demás y cómo somos realmente como líderes (comportamientos.) 
 
-En esta actividad, reflexionaremos sobre nuestras experiencias de liderazgo pasadas para crear una historia que podamos compartir con el público (una narrativa pública.) Esta narrativa pública conectará cómo nos vemos a nosotros mismos con cómo nos ven los demás públicamente. Este marco para el liderazgo y storytelling fue desarrollado por Marshall Ganz, de la Harvard Kennedy School of Government. Se enseña en cientos de países de todo el mundo a través de la Leading Change Network (LCN) y ayuda a formar a personas para que lideren sus comunidades, organizaciones y países.
+En esta actividad, reflexionaremos sobre nuestras experiencias de liderazgo pasadas para crear una historia que podamos compartir con el público (una narrativa pública.) Esta narrativa pública conectará cómo nos vemos a nosotras mismas con cómo nos ven los demás públicamente. Este marco para el liderazgo y storytelling fue desarrollado por Marshall Ganz, de la Harvard Kennedy School of Government (https://pll.harvard.edu/course/public-narrative-leadership-storytelling-and-action?delta=0). Se enseña en cientos de países de todo el mundo a través de la Leading Change Network (LCN) y ayuda a formar a personas para que lideren sus comunidades, organizaciones y países.
 
-NEXT
+>Cada una de nosotras tiene una historia importante que contar.   
+>Cada una de nosotras debe aprender a contar una historia que mueva a otras personas a la acción.   
+>Cada una de nosotras tiene historias de desafíos, o no sabríamos que el mundo necesita cambiar. 
+>Y cada una de nosotras tiene historias de esperanza, o no pensaríamos que podemos cambiar las cosas. 
+>
+>**A medida que aprendas esta habilidad, aprenderás a contar una Historia de Ti Misma.**
 
-Cada uno de nosotros tiene una historia convincente que contar    
-Cada una de nosotras puede aprender a contar una historia que mueva a otros a la acción.   Cada una de nosotras tiene historias de desafíos, o no pensaríamos que el mundo necesita cambiar. Y cada una de nosotras tiene historias de esperanza, o no pensaríamos que podemos cambiarlo. A medida que aprendas esta habilidad, aprenderás a contar una Historia de Ti Misma.
+OPEN QUESTION
+¿Cuál es esa historia que necesitas compartir para inspirar a las otras a través de tu experiencia vivida?
+¿Por qué es importante que otras personas escuchen esta historia?
 
-La narrativa pública como práctica de liderazgo
+CONTENT
+# La narrativa pública como práctica de liderazgo
 El liderazgo consiste en aceptar la responsabilidad de capacitar a los demás para que alcancen un objetivo común en medio de la incertidumbre.  La narrativa es el modo en que aprendemos a acceder a los recursos morales -el coraje- para tomar las decisiones que conforman nuestras identidades, como individuos, como comunidades, como naciones.  
 
 NEXT

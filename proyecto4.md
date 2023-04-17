@@ -70,7 +70,7 @@ OPEN QUESTION
 
 CONTENT
 # La narrativa pública como práctica de liderazgo
-El liderazgo consiste en aceptar la responsabilidad de capacitar a los demás para que alcancen un objetivo común en medio de la incertidumbre.  La narrativa es el modo en que aprendemos a acceder a los recursos morales -el coraje- para tomar las decisiones que conforman nuestras identidades, como individuos, como comunidades, como naciones.  
+El liderazgo también consiste en aceptar la responsabilidad de capacitar a las demás personas para que alcancen un **objetivo común en medio de la incertidumbre**.  La narrativa es una herramienta que tenemos para acceder a los recursos morales -el coraje- para tomar las decisiones que conforman nuestras identidades, como individuos, como comunidades, como naciones.  
 
 NEXT
 

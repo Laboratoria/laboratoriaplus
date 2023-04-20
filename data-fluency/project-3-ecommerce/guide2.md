@@ -175,7 +175,7 @@ No te preocupes si tus números no son exactamente los mismos que en la respuest
 
 ### 4.1 Análisis exploratorio de los datos
 
-¡Enhorabuena! Ya tienes limpio el dataset, sin embargo, todavía no estamos seguras de cómo se componen nuestros datos. Al ser más de 20.000 registros es difícil entenderlos simplemente mirándolos y viendo algunas filas. Se vuelve importante extraer información que pueda resumir los aspectos más claves de las variables para comprender por dónde se mueven. Para esto es útil hacer un análisis exploratorio.
+¡Continuamos! Ya tienes limpio el dataset, sin embargo, todavía no estamos seguras de cómo se componen nuestros datos. Al ser más de 20.000 registros es difícil entenderlos simplemente mirándolos y viendo algunas filas. Se vuelve importante extraer información que pueda resumir los aspectos más claves de las variables para comprender por dónde se mueven. Para esto es útil hacer un análisis exploratorio.
 
 Adicionalmente, en el brief, tu jefe comentó que parte de los entregables que le quieren dar a UK Merch es un entendimiento más completo de la salud de su negocio, por lo que puedes aprovechar este análisis exploratorio para responder algunas de las preguntas que tu jefe hizo a la empresa.
 
@@ -313,11 +313,11 @@ USA
 Respuesta correcta: Singapore
 
 Explicación
-Utiliza las tablas dinámicas y ordena de forma descendente. En la opción  valores selecciona AVERAGE.
+Utiliza las tablas dinámicas y ordena de forma descendente para definir esta respuesta. En la opción  valores selecciona AVERAGE.
 
 ### 4.2 Segmentación de clientes
 
-En el enunciado de proyecto habrás leído que tu jefe recomendó hacer una segmentación por Recencia, Frecuencia y Monto, o RFM por sus siglas. ¿Qué es esto 😕?
+>En el enunciado de proyecto habrás leído que tu jefe recomendó hacer una segmentación por Recencia, Frecuencia y Monto, o RFM por sus siglas. ¿Qué es esto 😕?
 
 Esta metodología permite clasificar a los clientes en las tres variables mencionadas:
 
